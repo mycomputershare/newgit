@@ -1,5 +1,6 @@
 first line by - mygit
+First libe by - mycomp
 Added by mycomp 23Aug20
 Changes done to second line -- by mygit2005
 Added new 3rd line -- by mygit2005
-I have added the 3rd line - old one - by mygit2005 
+I have added the 3rd line - old one - by mygit2005
