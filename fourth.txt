@@ -1,2 +1,0 @@
-New file for testing pull request
-This is forth file created from forked repo(child)
